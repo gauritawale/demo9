@@ -1,0 +1,129 @@
+*{
+	margin-top: 40px;
+}
+
+
+.box1{
+	height: 100px;
+	width: 100px;
+	background-image: conic-gradient(red,violet,purple,yellow,orange,white,green);
+	position:absolute;
+	top: 30px;
+	left:70px;
+				border:solid 4px white;
+
+
+}
+
+.box2{
+	height: 100px;
+	width: 100px;
+	background-image: conic-gradient(red,violet,purple,yellow,orange,white,green);
+	position:absolute;
+	top: 110px;
+	left:150px;
+	z-index: 687987;
+			border:solid 4px white;
+
+}
+
+.box3{
+
+	height: 100px;
+	width: 100px;
+	background-image: conic-gradient(red,violet,purple,yellow,orange,white,green);
+	position:absolute;
+	top: 190px;
+	left:230px;
+	z-index: 687987;
+			border:solid 4px white;
+
+
+
+}
+
+.box4{
+	height: 100px;
+	width: 100px;
+	background-image: conic-gradient(red,violet,purple,yellow,orange,white,green);
+	position:absolute;
+	top: 280px;
+	left:310px;
+		z-index: 687987;
+				border:solid 4px white;
+
+
+}
+.box5{
+	height: 100px;
+	width: 100px;
+	background-image: conic-gradient(red,violet,purple,yellow,orange,white,green);
+	position:absolute;
+	top: 360px;
+	left:400px;
+		z-index: 687987;
+				border:solid 4px white;
+
+
+
+}
+
+.box6{
+	height: 100px;
+	width: 100px;
+	background-image: conic-gradient(red,violet,purple,yellow,orange,white,green);
+	position:absolute;
+	top: 440px;
+	left:480px;
+	z-index: 687987;
+	border:solid 4px white;
+
+
+}
+
+.box7{
+	height: 100px;
+	width: 100px;
+	background-image: conic-gradient(red,violet,purple,yellow,orange,white,green);
+	position:absolute;
+	bottom: 80px;
+	left:570px;
+	z-index: 8767566;
+	border:solid 4px white;
+
+}
+
+.box8{
+	height: 180px;
+	width: 180px;
+	background-image: conic-gradient(red,violet,purple,yellow,orange,white,green);
+	position:absolute;
+	bottom: 160px;
+	left:650px;
+	z-index: 8767566;
+	border:solid 4px white;
+
+}
+
+.box9{
+	height: 250px;
+	width: 250px;
+	background-image: conic-gradient(red,violet,purple,yellow,orange,white,green);
+	position:absolute;
+	bottom: 250px;
+	left:750px;
+	border-radius: 50%;
+
+}
+
+.box10{
+	height: 30px;
+	width: 400px;
+	background-image: linear-gradient( to left,red,pink,black);
+	position:absolute;
+	bottom: 380px;
+	left:800px;
+	z-index: 8767987;
+	border: 3px solid white;
+
+}
